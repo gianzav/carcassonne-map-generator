@@ -1,0 +1,4 @@
+cffi==2.1.1
+clingo==5.8.2
+pillow==13.0.0
+pycparser==3.12
